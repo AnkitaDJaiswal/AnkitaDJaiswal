@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkitaDJaiswal
 - 👀 I’m interested in Application Development.
 - 🌱 I’m currently learning Java 8, Advanced Java, Spring MVC, Spring Boot.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on api and web application development.
 - 📫 How to reach me via email 22ankitajaiswal@gmail.com
 
 <!---
